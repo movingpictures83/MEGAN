@@ -1,0 +1,3 @@
+open file=plugins/MEGAN/example/1.rma
+export what=reads data=Taxonomy file=plugins/MEGAN/example/output.reads
+quit

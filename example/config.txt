@@ -1,2 +1,2 @@
 Prefix plugins/MEGAN/example
-Plugin MEGAN inputfile commands.txt output.reads 
+Plugin MEGAN inputfile commands.txt outputfile output.reads 

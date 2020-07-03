@@ -2,7 +2,8 @@
 # Language: C++
 # Input: TXT
 # Output: none
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Tested with: PluMA 1.1, GCC 4.8.4
+# Dependency: Ultimate verison of MEGAN
 
 PluMA plugin to interface to MEGAN (Huson et al, 2007).
 
